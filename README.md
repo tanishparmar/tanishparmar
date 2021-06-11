@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanishparmar
-- 👀 I’m interested in Flutter Development and ML AI
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on UI
+- 👀 I’m interested in ML AI.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on Front End Development.
 - 📫 How to reach me tanishparmarr@gmail.com
 
 <!---
